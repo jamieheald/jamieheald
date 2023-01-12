@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [geminidigitalservices.co.uk](geminidigitalservices.co.uk)
 
-- 📝 I regularly write articles on [https://heald.hashnode.dev](https://heald.hashnode.dev)
+- 📝 I occasionally write articles on [heald.hashnode.dev](https://heald.hashnode.dev)
 
 - 📫 How to reach me: **jamie@geminidigitalservices.co.uk**
 
