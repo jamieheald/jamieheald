@@ -15,8 +15,6 @@
 
 - 📄 My CV: [https://read.cv/heald](https://read.cv/heald)
 
-- ⚡ Fun fact **I can't wink!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jamieheald_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamieheald_" height="30" width="40" /></a>
