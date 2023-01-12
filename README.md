@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/jamieheald_" target="blank"><img src="https://img.shields.io/twitter/follow/jamieheald_?logo=twitter&style=for-the-badge" alt="jamieheald_" /></a> </p>
 
-- 🔭 I’m currently working on [Developing my first SaaS](https://twitter.com/jamieheald_)
+- 🔭 I’m currently working on **Developing my first SaaS**
 
 - 🌱 I’m currently learning **JavaScript Frameworks**
 
 - 👨‍💻 All of my projects are available at [geminidigitalservices.co.uk](geminidigitalservices.co.uk)
 
 - 📝 I regularly write articles on [https://heald.hashnode.dev](https://heald.hashnode.dev)
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me: **jamie@geminidigitalservices.co.uk**
 
