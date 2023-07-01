@@ -1,23 +1,23 @@
 <h1 align="left">Hi 👋, I'm Jamie</h1>
 <h3 align="left">Web Development at Gemini, Mobile Ops at BT, Business Technology at MMU</h3>
 
-<p align="left"> <a href="https://twitter.com/jamieheald_" target="blank"><img src="https://img.shields.io/twitter/follow/jamieheald_?logo=twitter&style=for-the-badge" alt="jamieheald_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heald___" target="blank"><img src="https://img.shields.io/twitter/follow/heald___?logo=twitter&style=for-the-badge" alt="heald___" /></a> </p>
 
-- 🔭 I’m currently working on **Developing my first SaaS**
+- 🔭 I’m currently working on **Developing my Wordpress agency**
 
-- 🌱 I’m currently learning **JavaScript Frameworks**
+- 🌱 I’m currently learning **Wordpress**
 
-- 👨‍💻 All of my projects are available at [geminidigitalservices.co.uk](geminidigitalservices.co.uk)
+- 👨‍💻 All of my projects are available at [geminiweb.co](geminiweb.co)
 
 - 📝 I occasionally write articles on [heald.hashnode.dev](https://heald.hashnode.dev)
 
-- 📫 How to reach me: **jamie@geminidigitalservices.co.uk**
+- 📫 How to reach me: **jamie@geminiweb.co**
 
 - 📄 My CV: [https://read.cv/heald](https://read.cv/heald)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jamieheald_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamieheald_" height="30" width="40" /></a>
+<a href="https://twitter.com/heald___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamieheald_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamieheald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamieheald" height="30" width="40" /></a>
 <a href="https://www.behance.net/jamieheald_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jamieheald_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@jamieheald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jamieheald" height="30" width="40" /></a>
